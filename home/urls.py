@@ -5,5 +5,5 @@ urlpatterns = [
 ]
 
 urlpatterns = [
-    path('about', views.about, name='about'),
+    path('about.html', views.about, name='about'),
 ]
