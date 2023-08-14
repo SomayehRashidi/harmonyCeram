@@ -9,5 +9,5 @@ urlpatterns = [
 ]
 
 urlpatterns = [
-    path('contact_us', views.contact_us, name='contact_us'),
+    path('contact_us',views.contactus, name='contact_us'),
 ]
